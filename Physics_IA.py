@@ -1,7 +1,3 @@
-"""
-Vertigo
-"""
-
 import math
 
 """
