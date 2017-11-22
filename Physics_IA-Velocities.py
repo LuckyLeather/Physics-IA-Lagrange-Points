@@ -2,7 +2,7 @@ import math
 
 """
     Calculates the velocity of Lagrange Points (L4 and L5) of Earth-Moon system if the mass of Earth were to increase.
-    The distance from Earth to the L points (r), is assumed constant. In reality, the resulting velocities would
+    The distance from Earth to the L points (r), is assumed constant. In reality, the resulting velocity(ies) would
     be higher than the values found here; the r value would decrease due to an increasing gravitational pull, caused 
     by an increasing primary body mass.
     Based on v = sqrt(GM/r) formula.
