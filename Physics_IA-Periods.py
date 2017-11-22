@@ -2,9 +2,9 @@ import math
 
 """
     Calculates the period of Lagrange Points (L4 and L5) of Earth-Moon system if the mass of Earth were to increase.
-    The distance from Earth to the L points (r), is assumed constant. Realistically, the r value would decrease because 
-    of an increasing gravitational pull caused by the growing primary body mass, meaning the real values would be lower 
-    than the ones found here.
+    The distance from Earth to the L points (r), is assumed constant. In reality, the resulting period(s) would
+    be lower than the values found here; the r value would decrease due to an increasing gravitational pull, caused 
+    by an increasing primary body mass.
     Based on t = 2*π*sqrt(r^3/GM) formula.
 """
 
